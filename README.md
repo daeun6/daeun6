@@ -37,7 +37,7 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 - 2022.07 ~ 2022.08 | Spring Boot, SQLite | Developer<br>
 #### Book Reading Log App Development (Programming GURU2)<br>
 - 2022.12 ~ 2023.02 | Android Studio, SQLite | PM, Developer
-#### Deepfake Audio Detection using AD Model-based GAN (PBL) <br>
+#### Deepfake Audio Detection using Anomaly Detection Model-based GAN (PBL) <br>
 - 2023.03 ~ Present | TensorFlow | PM, Data Scientist
 #### AI-based Research for Drone Safety (Undergraduate Research Program)<br>
 - 2023.04 ~ Present | Document Research
