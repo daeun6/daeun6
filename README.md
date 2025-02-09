@@ -1,5 +1,5 @@
 # About Daeun Song 😄
-<br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="200" height="250"></p>
+<br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="300" height="350"></p>
 <br>
 I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Bachelor's degree in Information Security and Data Science. I have experience in machine learning, deep learning, and reinforcement learning, and is currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
 
@@ -11,8 +11,8 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 🏫 B.S in Information Security Double majored in Data Science (GPA: 4.11 / 4.5), Seoul Women's University 
 
 ## Awards 
-🏆 Finalist in Wave it School Hackathon / Aug 2022 <br>
-🏆 Excellence Award in Programming GURU2 (2nd place) / Feb 2023 <br>
+🏆 Finalist in Wave it School Hackathon(본선 입선) / Aug 2022 <br>
+🏆 Excellence Award in Programming GURU2 (최우수상) / Feb 2023 <br>
 🏆 **Grand Prize** in PBL Evaluation Conference (대상) / Dec 2023 <br>
 🏆 **Grand Prize** in Personal Information Protection Project (대상) / Feb 2024 <br>
 
