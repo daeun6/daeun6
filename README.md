@@ -27,7 +27,7 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 
 ## Certificates 📁
 - Certified Internet Ethics Instructor / Dec 14, 2021 <br>
-- Class 2 Driver’s License / Aug 2022<br>
+- Driver’s License / Aug 2022<br>
 - Engineer Information Processing Certification / Sep 10, 2024<br>
 
 ## Project Summary (Subject | Skill | Role)
