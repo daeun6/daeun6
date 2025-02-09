@@ -1,5 +1,5 @@
 # About Daeun Song 😄
-<br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="300" height="350"></p>
+<br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="200" height="250"></p>
 <br>
 I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Bachelor's degree in Information Security and Data Science. I have experience in machine learning, deep learning, and reinforcement learning, and is currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
 
