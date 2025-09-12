@@ -5,8 +5,8 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 
 
 ## Education
-#### 2025.08 ~ - <br>
-🏫 - <br>
+#### 2025.08 ~ 2027.08 <br>
+🏫 M.S in Sungkyunkwan University <br>
 #### 2021.03 ~ 2025.02 <br>
 🏫 B.S in Information Security Double majored in Data Science (GPA: 4.11 / 4.5), Seoul Women's University 
 
