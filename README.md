@@ -1,7 +1,7 @@
 # About Daeun Song 😄
 <br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="200" height="250"></p>
 <br>
-I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Bachelor's degree in Information Security and Data Science. I have experience in machine learning, deep learning, and reinforcement learning, and is currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
+I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Master's student in the Department of Electrical and Computer Engineering, College of Information and Communication Engineering, Sungkyunkwan University. I have experience in machine learning, deep learning, and reinforcement learning, and is currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
 
 
 ## Education
@@ -23,7 +23,7 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
     
 📜 Anomaly Detection of Deepfake Audio Based on Real Audio using Generative Adversarial Network Model<br>
 
-- **IEEE ACCESS (Accept)** (SCI Paper)<br>
+- **IEEE ACCESS** (SCI Paper)<br>
 
 ## Certificates 📁
 - Certified Internet Ethics Instructor / Dec 14, 2021 <br>
