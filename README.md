@@ -25,6 +25,14 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 
 - IEEE ACCESS (SCI)<br>
 
+📜 Open-Vocabulary Video Anomaly Detection를 통한 미지정 이상 데이터 탐지 및 대응 설계 <br>
+
+- 한국정보보호학회 국내 학술대회<br>
+
+📜 Development of a Real-Time Dense Fog Detection Framework for Autonomous Drones <br> 
+
+- KSII JICS<br>
+
 ## Certificates 📁
 - Certified Internet Ethics Instructor / Dec 14, 2021 <br>
 - Driver’s License / Aug 2022<br>
