@@ -1,7 +1,7 @@
 # About Daeun Song 😄
 <br><p align="center"><img src = "https://github.com/user-attachments/assets/9b43a398-5311-442b-b956-08bb17c4529f" width="200" height="250"></p>
 <br>
-I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Master's student in the Department of Electrical and Computer Engineering, College of Information and Communication Engineering, Sungkyunkwan University. I have experience in machine learning, deep learning, and reinforcement learning, and is currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
+I'm a passionate researcher in the field of AI ethics and security, currently pursuing a Master's student in the Department of Electrical and Computer Engineering, College of Information and Communication Engineering, Sungkyunkwan University. I am currently focusing on AI security, including privacy protection and ethical applications of vision technologies.
 
 
 ## Education
@@ -13,8 +13,8 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
 ## Awards 
 🏆 Finalist in Wave it School Hackathon(본선 입선) / Aug 2022 <br>
 🏆 Excellence Award in Programming GURU2 (최우수상) / Feb 2023 <br>
-🏆 **Grand Prize** in PBL Evaluation Conference (대상) / Dec 2023 <br>
-🏆 **Grand Prize** in Personal Information Protection Project (대상) / Feb 2024 <br>
+🏆 Grand Prize in PBL Evaluation Conference (대상) / Dec 2023 <br>
+🏆 Grand Prize in Personal Information Protection Project (대상) / Feb 2024 <br>
 
 ## Papers
 📜 Agent Learning Using Self-play Techniques in a Competitive Environment : DQN Algorithm<br>
@@ -23,7 +23,7 @@ I'm a passionate researcher in the field of AI ethics and security, currently pu
     
 📜 Anomaly Detection of Deepfake Audio Based on Real Audio using Generative Adversarial Network Model<br>
 
-- **IEEE ACCESS** (SCI Paper)<br>
+- IEEE ACCESS (SCI)<br>
 
 ## Certificates 📁
 - Certified Internet Ethics Instructor / Dec 14, 2021 <br>
